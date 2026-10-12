@@ -1,4 +1,12 @@
-# Alaa El Deen Bakery Website (فرن علاء الدين)
+# Alaa El Deen Bakery Website
+
+A website project developed by **Mohammad Jawad Chahrour** under **TECHNOLOGIC**.
+
+- **Developer:** [Mohammad Jawad Chahrour](https://github.com/mohamedjawadchahrour)
+- **Company:** [TECHNOLOGIC](https://github.com/technologic-hub)
+- **Live Website:** [View Website](https://mohamedjawadchahrour.github.io/alaa-el-deen-bakery/)
+
+This project is part of TECHNOLOGIC's web development and technical solutions portfolio.
 
 A static, Arabic-first (right-to-left) website for **Alaa El Deen Bakery**: hero with photo carousel, product photos, price list, about section with address, and contact section with call and WhatsApp links.
 
